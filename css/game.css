@@ -1,0 +1,40 @@
+h1 {
+	margin: 1rem 1rem;
+	font-size: 3.5rem;
+	text-align: center;
+}
+
+h2 {
+	margin: 1rem 1rem;
+	color: red;
+	text-align: center;
+}
+
+.game-field {
+  background-color: orange;
+  min-height: 10vh;
+  
+  margin: 1px 1px 1px 1px;
+  line-height: 10vh;
+}
+
+.target {
+  background-color: green;
+  color: white;
+  font-size: 24pt;
+  text-align: center;
+}
+.noTarget {
+  background-color: orange;
+}
+
+.miss {
+  background-color: red;
+}
+
+.btn-primary {
+  margin: 20px auto;
+}
+#button-start {
+  
+}
